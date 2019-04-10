@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorSplash">#000000</color>
+    
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorDetailBack">#1e1f24</color>
+    
+    <color name="colorTitle">#ffffff</color>
+    <color name="underTitle">#b7b7b7</color>
+    <color name="colorVote">#fbc300</color>
+    <color name="colorOverText">#f0f0f0</color>
+</resources>
